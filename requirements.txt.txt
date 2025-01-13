@@ -1,5 +1,0 @@
-streamlit
-pymongo
-bcrypt
-pandas
-numpy
